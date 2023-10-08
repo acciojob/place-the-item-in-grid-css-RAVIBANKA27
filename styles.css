@@ -2,5 +2,5 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template:repeat(2,200px)/repeat(2,100px);
+	grid-template:repeat(2,100px)/repeat(2,100px);
 }
